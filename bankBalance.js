@@ -31,7 +31,7 @@ function bankBalance(nombre, apellido, arreglo){
     `;
 }
 
-console.log(calculateBalances(operacionesBancarias));
-console.log(bankBalance("Juan", "Farías", operacionesBancarias));
+//console.log(calculateBalances(operacionesBancarias));
+//console.log(bankBalance("Juan", "Farías", operacionesBancarias));
 
 module.exports = bankBalance;
